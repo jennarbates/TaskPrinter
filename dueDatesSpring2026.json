@@ -1,0 +1,167 @@
+{
+  "timezone": "America/New_York",
+  "items": [
+    { "id": "M370-2026-02-03-passion-paper", "type": "assignment", "course": "MATH 370", "title": "Passion paper", "due": "2026-02-03", "all_day": true },
+    { "id": "M370-2026-02-05-article-critique-1", "type": "assignment", "course": "MATH 370", "title": "Article Critique 1", "due": "2026-02-05", "all_day": true },
+
+    { "id": "CS311-2026-02-04-quiz-1", "type": "quiz", "course": "COMPSCI 311", "title": "Quiz 1", "due": "2026-02-04 23:59", "late_due": null },
+    { "id": "CS311-2026-02-04-quiz-2", "type": "quiz", "course": "COMPSCI 311", "title": "Quiz 2", "due": "2026-02-04 23:59", "late_due": null },
+
+    { "id": "M235-2026-02-04-sec-1-1", "type": "assignment", "course": "MATH 235", "title": "Section 1.1", "due": "2026-02-04 23:59", "late_due": null },
+    { "id": "M235-2026-02-04-quiz-1-1", "type": "quiz", "course": "MATH 235", "title": "Quiz 1.1", "due": "2026-02-04 23:59", "late_due": null },
+
+    { "id": "M331-2026-02-04-sec-1-1", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 1.1", "due": "2026-02-04 23:59", "late_due": null },
+
+    { "id": "CS311-2026-02-06-discussion-1", "type": "discussion", "course": "COMPSCI 311", "title": "Discussion 1", "due": "2026-02-06 23:59", "late_due": null },
+
+    { "id": "M331-2026-02-09-sec-1-2", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 1.2", "due": "2026-02-09 23:59", "late_due": null },
+
+    { "id": "CS311-2026-02-10-quiz-3", "type": "quiz", "course": "COMPSCI 311", "title": "Quiz 3", "due": "2026-02-10 23:59", "late_due": null },
+    { "id": "M370-2026-02-10-latex-project-1", "type": "assignment", "course": "MATH 370", "title": "LaTeX Project 1", "due": "2026-02-10", "all_day": true },
+
+    { "id": "M235-2026-02-11-problem-set-1", "type": "assignment", "course": "MATH 235", "title": "Problem Set 1", "due": "2026-02-11 23:59", "late_due": null },
+    { "id": "M235-2026-02-11-sec-1-2", "type": "assignment", "course": "MATH 235", "title": "Section 1.2", "due": "2026-02-11 23:59", "late_due": null },
+    { "id": "M235-2026-02-11-quiz-1-2", "type": "quiz", "course": "MATH 235", "title": "Quiz 1.2", "due": "2026-02-11 23:59", "late_due": null },
+    { "id": "M235-2026-02-11-sec-1-3", "type": "assignment", "course": "MATH 235", "title": "Section 1.3", "due": "2026-02-11 23:59", "late_due": null },
+    { "id": "M235-2026-02-11-quiz-1-3", "type": "quiz", "course": "MATH 235", "title": "Quiz 1.3", "due": "2026-02-11 23:59", "late_due": null },
+
+    { "id": "M331-2026-02-11-written-hw-1", "type": "assignment", "course": "MATH 331", "title": "Written HW #1", "due": "2026-02-11 17:00", "late_due": null },
+    { "id": "M331-2026-02-11-sec-1-3", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 1.3", "due": "2026-02-11 17:59", "late_due": null },
+
+    { "id": "CS311-2026-02-12-quiz-4", "type": "quiz", "course": "COMPSCI 311", "title": "Quiz 4", "due": "2026-02-12 00:05", "late_due": "2026-02-13 00:05" },
+    { "id": "M370-2026-02-12-mathography", "type": "assignment", "course": "MATH 370", "title": "Mathography", "due": "2026-02-12", "all_day": true },
+
+    { "id": "M331-2026-02-13-sec-2-1", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 2.1", "due": "2026-02-13 23:59", "late_due": null },
+    { "id": "CS311-2026-02-13-discussion-2", "type": "discussion", "course": "COMPSCI 311", "title": "Discussion 2", "due": "2026-02-13 23:59", "late_due": null },
+
+    { "id": "M331-2026-02-17-sec-2-2", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 2.2", "due": "2026-02-17 23:59", "late_due": null },
+    { "id": "M370-2026-02-17-resume-first-draft", "type": "assignment", "course": "MATH 370", "title": "Resume first draft", "due": "2026-02-17", "all_day": true },
+    { "id": "M370-2026-02-17-cover-letter-first-draft", "type": "assignment", "course": "MATH 370", "title": "Cover letter first draft", "due": "2026-02-17", "all_day": true },
+
+    { "id": "M235-2026-02-18-sec-1-4", "type": "assignment", "course": "MATH 235", "title": "Section 1.4", "due": "2026-02-18 23:59", "late_due": null },
+    { "id": "M235-2026-02-18-quiz-1-4", "type": "quiz", "course": "MATH 235", "title": "Quiz 1.4", "due": "2026-02-18 23:59", "late_due": null },
+    { "id": "M235-2026-02-18-sec-1-5", "type": "assignment", "course": "MATH 235", "title": "Section 1.5", "due": "2026-02-18 23:59", "late_due": null },
+    { "id": "M235-2026-02-18-quiz-1-5", "type": "quiz", "course": "MATH 235", "title": "Quiz 1.5", "due": "2026-02-18 23:59", "late_due": null },
+    { "id": "M235-2026-02-18-problem-set-2", "type": "assignment", "course": "MATH 235", "title": "Problem Set 2", "due": "2026-02-18 23:59", "late_due": null },
+
+    { "id": "M331-2026-02-18-sec-2-3", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 2.3", "due": "2026-02-18 23:59", "late_due": null },
+
+    { "id": "CS311-2026-02-18-project-1-written", "type": "project", "course": "COMPSCI 311", "title": "Project 1 (written)", "due": "2026-02-18 00:05", "late_due": "2026-02-20 00:05" },
+
+    { "id": "M331-2026-02-23-sec-2-4", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 2.4", "due": "2026-02-23 23:59", "late_due": null },
+
+    { "id": "M370-2026-02-24-resume-final-draft", "type": "assignment", "course": "MATH 370", "title": "Resume final draft", "due": "2026-02-24", "all_day": true },
+    { "id": "M370-2026-02-24-cover-letter-final-draft", "type": "assignment", "course": "MATH 370", "title": "Cover letter final draft", "due": "2026-02-24", "all_day": true },
+
+    { "id": "M235-2026-02-25-sec-1-7", "type": "assignment", "course": "MATH 235", "title": "Section 1.7", "due": "2026-02-25 23:59", "late_due": null },
+    { "id": "M235-2026-02-25-quiz-1-7", "type": "quiz", "course": "MATH 235", "title": "Quiz 1.7", "due": "2026-02-25 23:59", "late_due": null },
+
+    { "id": "M331-2026-02-25-sec-2-5", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 2.5", "due": "2026-02-25 23:59", "late_due": null },
+
+    { "id": "M331-2026-02-26-written-hw-2", "type": "assignment", "course": "MATH 331", "title": "Written HW #2", "due": "2026-02-26 17:00", "late_due": null },
+    { "id": "M370-2026-02-26-article-critique-2", "type": "assignment", "course": "MATH 370", "title": "Article Critique 2", "due": "2026-02-26", "all_day": true },
+    { "id": "M370-2026-02-26-personal-finance", "type": "assignment", "course": "MATH 370", "title": "Personal Finance", "due": "2026-02-26", "all_day": true },
+
+    { "id": "M331-2026-02-27-sec-2-6", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 2.6", "due": "2026-02-27 23:59", "late_due": null },
+    { "id": "M331-2026-02-27-sec-2-7", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 2.7", "due": "2026-02-27 23:59", "late_due": null },
+
+    { "id": "M331-2026-03-02-sec-3-1", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 3.1", "due": "2026-03-02 23:59", "late_due": null },
+
+    { "id": "M235-2026-03-03-sec-1-8", "type": "assignment", "course": "MATH 235", "title": "Section 1.8", "due": "2026-03-03 23:59", "late_due": null },
+    { "id": "M235-2026-03-03-quiz-1-8", "type": "quiz", "course": "MATH 235", "title": "Quiz 1.8", "due": "2026-03-03 23:59", "late_due": null },
+    { "id": "M235-2026-03-03-sec-1-9", "type": "assignment", "course": "MATH 235", "title": "Section 1.9", "due": "2026-03-03 23:59", "late_due": null },
+    { "id": "M235-2026-03-03-quiz-1-9", "type": "quiz", "course": "MATH 235", "title": "Quiz 1.9", "due": "2026-03-03 23:59", "late_due": null },
+    { "id": "M235-2026-03-03-sec-1-6-1-10", "type": "assignment", "course": "MATH 235", "title": "Section 1.6/1.10", "due": "2026-03-03 23:59", "late_due": null },
+    { "id": "M235-2026-03-03-quiz-1-6-1-10", "type": "quiz", "course": "MATH 235", "title": "Quiz 1.6/1.10", "due": "2026-03-03 23:59", "late_due": null },
+
+    { "id": "M235-2026-03-04-exam-1", "type": "exam", "course": "MATH 235", "title": "Exam 1", "start": "2026-03-04 19:00", "end": "2026-03-04 21:00", "location": null },
+    { "id": "M331-2026-03-04-sec-3-2", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 3.2", "due": "2026-03-04 23:59", "late_due": null },
+
+    { "id": "M370-2026-03-05-scientific-writing-proposal", "type": "assignment", "course": "MATH 370", "title": "Scientific Writing Proposal", "due": "2026-03-05", "all_day": true },
+
+    { "id": "M331-2026-03-06-sec-3-3", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 3.3", "due": "2026-03-06 23:59", "late_due": null },
+    { "id": "M331-2026-03-09-sec-3-4", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 3.4", "due": "2026-03-09 23:59", "late_due": null },
+
+    { "id": "M235-2026-03-11-sec-2-1", "type": "assignment", "course": "MATH 235", "title": "Section 2.1", "due": "2026-03-11 23:59", "late_due": null },
+    { "id": "M235-2026-03-11-quiz-2-1", "type": "quiz", "course": "MATH 235", "title": "Quiz 2.1", "due": "2026-03-11 23:59", "late_due": null },
+    { "id": "M235-2026-03-11-sec-2-2", "type": "assignment", "course": "MATH 235", "title": "Section 2.2", "due": "2026-03-11 23:59", "late_due": null },
+    { "id": "M235-2026-03-11-quiz-2-2", "type": "quiz", "course": "MATH 235", "title": "Quiz 2.2", "due": "2026-03-11 23:59", "late_due": null },
+    { "id": "M235-2026-03-11-sec-2-3", "type": "assignment", "course": "MATH 235", "title": "Section 2.3", "due": "2026-03-11 23:59", "late_due": null },
+    { "id": "M235-2026-03-11-quiz-2-3", "type": "quiz", "course": "MATH 235", "title": "Quiz 2.3", "due": "2026-03-11 23:59", "late_due": null },
+
+    { "id": "M331-2026-03-11-midterm", "type": "exam", "course": "MATH 331", "title": "Midterm", "start": "2026-03-11 19:00", "end": "2026-03-11 21:00", "location": null },
+
+    { "id": "CS311-2026-03-12-midterm-1", "type": "exam", "course": "COMPSCI 311", "title": "Midterm I", "start": "2026-03-12 19:00", "end": "2026-03-12 21:00", "location": "ILC S110" },
+    { "id": "M331-2026-03-12-midterm-makeup", "type": "exam", "course": "MATH 331", "title": "Midterm (Make-up)", "start": "2026-03-12 19:00", "end": "2026-03-12 21:00", "location": null },
+    { "id": "M370-2026-03-12-scientific-writing-project", "type": "assignment", "course": "MATH 370", "title": "Scientific Writing Project", "due": "2026-03-12", "all_day": true },
+
+    { "id": "M235-2026-03-25-sec-3-1", "type": "assignment", "course": "MATH 235", "title": "Section 3.1", "due": "2026-03-25 23:59", "late_due": null },
+    { "id": "M235-2026-03-25-quiz-3-1", "type": "quiz", "course": "MATH 235", "title": "Quiz 3.1", "due": "2026-03-25 23:59", "late_due": null },
+    { "id": "M235-2026-03-25-sec-3-2", "type": "assignment", "course": "MATH 235", "title": "Section 3.2", "due": "2026-03-25 23:59", "late_due": null },
+    { "id": "M235-2026-03-25-quiz-3-2", "type": "quiz", "course": "MATH 235", "title": "Quiz 3.2", "due": "2026-03-25 23:59", "late_due": null },
+
+    { "id": "M370-2026-03-24-expository-first-draft", "type": "assignment", "course": "MATH 370", "title": "Expository Paper First Draft", "due": "2026-03-24", "all_day": true },
+    { "id": "M331-2026-03-27-sec-3-5", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 3.5", "due": "2026-03-27 23:59", "late_due": null },
+    { "id": "M370-2026-03-26-article-critique-3", "type": "assignment", "course": "MATH 370", "title": "Article Critique 3", "due": "2026-03-26", "all_day": true },
+    { "id": "M331-2026-03-30-sec-3-7", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 3.7", "due": "2026-03-30 23:59", "late_due": null },
+    { "id": "M370-2026-03-31-research-proposal", "type": "assignment", "course": "MATH 370", "title": "Research Proposal", "due": "2026-03-31", "all_day": true },
+
+    { "id": "M235-2026-04-01-sec-3-3", "type": "assignment", "course": "MATH 235", "title": "Section 3.3", "due": "2026-04-01 23:59", "late_due": null },
+    { "id": "M235-2026-04-01-quiz-3-3", "type": "quiz", "course": "MATH 235", "title": "Quiz 3.3", "due": "2026-04-01 23:59", "late_due": null },
+    { "id": "M331-2026-04-01-sec-3-8", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 3.8", "due": "2026-04-01 23:59", "late_due": null },
+    { "id": "M370-2026-04-02-expository-final", "type": "assignment", "course": "MATH 370", "title": "Expository Paper Final Draft", "due": "2026-04-02", "all_day": true },
+    { "id": "M331-2026-04-03-sec-6-1", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 6.1", "due": "2026-04-03 23:59", "late_due": null },
+
+    { "id": "M235-2026-04-06-sec-4-1", "type": "assignment", "course": "MATH 235", "title": "Section 4.1", "due": "2026-04-06 23:59", "late_due": null },
+    { "id": "M235-2026-04-06-quiz-4-1", "type": "quiz", "course": "MATH 235", "title": "Quiz 4.1", "due": "2026-04-06 23:59", "late_due": null },
+    { "id": "M235-2026-04-06-sec-4-2", "type": "assignment", "course": "MATH 235", "title": "Section 4.2", "due": "2026-04-06 23:59", "late_due": null },
+    { "id": "M235-2026-04-06-quiz-4-2", "type": "quiz", "course": "MATH 235", "title": "Quiz 4.2", "due": "2026-04-06 23:59", "late_due": null },
+    { "id": "M235-2026-04-06-sec-4-3", "type": "assignment", "course": "MATH 235", "title": "Section 4.3", "due": "2026-04-06 23:59", "late_due": null },
+    { "id": "M235-2026-04-06-quiz-4-3", "type": "quiz", "course": "MATH 235", "title": "Quiz 4.3", "due": "2026-04-06 23:59", "late_due": null },
+    { "id": "M331-2026-04-06-sec-6-2", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 6.2", "due": "2026-04-06 23:59", "late_due": null },
+
+    { "id": "M235-2026-04-07-exam-2", "type": "exam", "course": "MATH 235", "title": "Exam 2", "start": "2026-04-07 19:00", "end": "2026-04-07 21:00", "location": null },
+
+    { "id": "M331-2026-04-10-sec-6-3", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 6.3", "due": "2026-04-10 23:59", "late_due": null },
+    { "id": "M370-2026-04-09-research-paper-first-draft", "type": "assignment", "course": "MATH 370", "title": "Research Paper First Draft", "due": "2026-04-09", "all_day": true },
+    { "id": "M331-2026-04-13-sec-6-4", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 6.4", "due": "2026-04-13 23:59", "late_due": null },
+
+    { "id": "M235-2026-04-15-sec-4-4", "type": "assignment", "course": "MATH 235", "title": "Section 4.4", "due": "2026-04-15 23:59", "late_due": null },
+    { "id": "M235-2026-04-15-quiz-4-4", "type": "quiz", "course": "MATH 235", "title": "Quiz 4.4", "due": "2026-04-15 23:59", "late_due": null },
+    { "id": "M235-2026-04-15-sec-4-5", "type": "assignment", "course": "MATH 235", "title": "Section 4.5", "due": "2026-04-15 23:59", "late_due": null },
+    { "id": "M235-2026-04-15-quiz-4-5", "type": "quiz", "course": "MATH 235", "title": "Quiz 4.5", "due": "2026-04-15 23:59", "late_due": null },
+    { "id": "M235-2026-04-15-sec-4-6", "type": "assignment", "course": "MATH 235", "title": "Section 4.6", "due": "2026-04-15 23:59", "late_due": null },
+    { "id": "M235-2026-04-15-quiz-4-6", "type": "quiz", "course": "MATH 235", "title": "Quiz 4.6", "due": "2026-04-15 23:59", "late_due": null },
+
+    { "id": "M331-2026-04-15-sec-6-5", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 6.5", "due": "2026-04-15 23:59", "late_due": null },
+    { "id": "CS311-2026-04-16-midterm-2", "type": "exam", "course": "COMPSCI 311", "title": "Midterm II", "start": "2026-04-16 19:00", "end": "2026-04-16 21:00", "location": "ILC S110" },
+
+    { "id": "M331-2026-04-17-sec-7-1", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 7.1", "due": "2026-04-17 23:59", "late_due": null },
+
+    { "id": "M235-2026-04-22-sec-5-1", "type": "assignment", "course": "MATH 235", "title": "Section 5.1", "due": "2026-04-22 23:59", "late_due": null },
+    { "id": "M235-2026-04-22-quiz-5-1", "type": "quiz", "course": "MATH 235", "title": "Quiz 5.1", "due": "2026-04-22 23:59", "late_due": null },
+    { "id": "M235-2026-04-22-sec-5-2", "type": "assignment", "course": "MATH 235", "title": "Section 5.2", "due": "2026-04-22 23:59", "late_due": null },
+    { "id": "M235-2026-04-22-quiz-5-2", "type": "quiz", "course": "MATH 235", "title": "Quiz 5.2", "due": "2026-04-22 23:59", "late_due": null },
+
+    { "id": "M331-2026-04-22-sec-7-2-7-3", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 7.2–7.3", "due": "2026-04-22 23:59", "late_due": null },
+    { "id": "M370-2026-04-23-research-paper-final", "type": "assignment", "course": "MATH 370", "title": "Research Paper Final", "due": "2026-04-23", "all_day": true },
+
+    { "id": "M235-2026-04-29-sec-5-3", "type": "assignment", "course": "MATH 235", "title": "Section 5.3", "due": "2026-04-29 23:59", "late_due": null },
+    { "id": "M235-2026-04-29-quiz-5-3", "type": "quiz", "course": "MATH 235", "title": "Quiz 5.3", "due": "2026-04-29 23:59", "late_due": null },
+    { "id": "M235-2026-04-29-sec-5-5", "type": "assignment", "course": "MATH 235", "title": "Section 5.5", "due": "2026-04-29 23:59", "late_due": null },
+    { "id": "M235-2026-04-29-quiz-5-5", "type": "quiz", "course": "MATH 235", "title": "Quiz 5.5", "due": "2026-04-29 23:59", "late_due": null },
+
+    { "id": "M331-2026-05-04-sec-7-4-7-5", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 7.4–7.5", "due": "2026-05-04 23:59", "late_due": null },
+
+    { "id": "M235-2026-05-06-sec-6-1", "type": "assignment", "course": "MATH 235", "title": "Section 6.1", "due": "2026-05-06 23:59", "late_due": null },
+    { "id": "M235-2026-05-06-quiz-6-1", "type": "quiz", "course": "MATH 235", "title": "Quiz 6.1", "due": "2026-05-06 23:59", "late_due": null },
+    { "id": "M235-2026-05-06-sec-6-2", "type": "assignment", "course": "MATH 235", "title": "Section 6.2", "due": "2026-05-06 23:59", "late_due": null },
+    { "id": "M235-2026-05-06-quiz-6-2", "type": "quiz", "course": "MATH 235", "title": "Quiz 6.2", "due": "2026-05-06 23:59", "late_due": null },
+
+    { "id": "M331-2026-05-08-sec-7-6", "type": "assignment", "course": "MATH 331", "title": "WileyPLUS Sec 7.6", "due": "2026-05-08 23:59", "late_due": null },
+
+    { "id": "M235-2026-05-10-sec-6-3", "type": "assignment", "course": "MATH 235", "title": "Section 6.3", "due": "2026-05-10 23:59", "late_due": null },
+    { "id": "M235-2026-05-10-quiz-6-3", "type": "quiz", "course": "MATH 235", "title": "Quiz 6.3", "due": "2026-05-10 23:59", "late_due": null }
+  ]
+}
+
